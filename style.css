@@ -300,7 +300,7 @@ html{
     .navbar .navbar-collapse{
         overflow:hidden;
         background: #fff;
-        text-align: right;
+        text-align: left;
         padding: 10px 0;
         margin: 10px 0;
 
