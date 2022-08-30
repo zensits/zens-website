@@ -312,21 +312,10 @@ html{
         max-width: 50%;
     }
     .navbar .navbar-collapse{
-        overflow:hidden;
+        overflow:visible;
         background: #fff;
         text-align: left;
         padding: 10px 0;
-        margin: 10px 0;
-
-
-    }.navbar .container{
-        max-width: 100%;
-    }
-    .navbar .navbar-collapse{
-        overflow:hidden;
-        background: #fff;
-        text-align: left;
-        padding: 5px 0;
         margin: 10px 0;
 
 
