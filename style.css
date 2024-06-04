@@ -381,8 +381,8 @@ html{
     
 }
 .leftside,.rightside{
-    height: 20vh
-    width=20%
+    height: 20vh;
+    width: 20%;
 }
 .leftside{
     background:red;
