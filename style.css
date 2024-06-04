@@ -381,5 +381,10 @@ html{
     
 }
 .product {
-    padding:20px 0;
+    padding:5px 0;
+}
+.card2{
+    height: 300px;
+    width: 200px;
+
 }
