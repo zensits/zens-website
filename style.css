@@ -380,3 +380,13 @@ html{
 
     
 }
+.leftside,.rightside{
+    height: 20vh
+    width=20%
+}
+.leftside{
+    background:red;
+}
+.rightside{
+    background:blue
+}
